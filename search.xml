@@ -43,6 +43,13 @@
   
     
     <entry>
+      <title></title>
+      <url>/README.html</url>
+      <content type="html"><![CDATA[<h2 id="Mughni-Mind"><a href="#Mughni-Mind" class="headerlink" title="Mughni Mind"></a>Mughni Mind</h2><p>Just another personal blog.</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Galeri]]></title>
       <url>/Galeri/index.html</url>
       <content type="html"></content>
@@ -85,12 +92,6 @@ DeviantArt: <a href="http://mughnie.deviantart.com" target="_blank" rel="externa
     <entry>
       <title><![CDATA[Tagar]]></title>
       <url>/Tagar/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tautan]]></title>
-      <url>/Tautan/index.html</url>
       <content type="html"></content>
     </entry>
     
@@ -142,6 +143,12 @@ DeviantArt: <a href="http://mughnie.deviantart.com" target="_blank" rel="externa
 <p style="text-align:right;margin-top:1.5em;">acemughnie</p>
 
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tautan]]></title>
+      <url>/Tautan/index.html</url>
+      <content type="html"></content>
     </entry>
     
   
