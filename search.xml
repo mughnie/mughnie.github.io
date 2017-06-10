@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Blog, Github, Hexo]]></title>
+      <url>/2017/06/08/Blog-Github-Hexo/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>Sebidang tulisan mengenai rekam jejak perjalanan saya hingga akhirnya terpukau dengan Hexo.</p>
+</blockquote>
+<h2 id="Ikut-ikutan-Ngeblog"><a href="#Ikut-ikutan-Ngeblog" class="headerlink" title="Ikut-ikutan Ngeblog"></a>Ikut-ikutan Ngeblog</h2><p><a href="https://id.m.wikipedia.org/wiki/Blog" target="_blank" rel="external">Blogging</a> adalah salah satu sarana yang seringkali dimanfaatkan untuk melampiaskan nafsu tulis-menulis oleh para <a href="https://id.m.wikipedia.org/wiki/Penulis" title="Penulis" target="_blank" rel="external">pengrajin kata</a>. Ketenaran istilah blog yang telah menggema ke segala penjuru angin sudah tidak perlu lagi diragukan, mengingat telinga manusia yang terlahir jauh dari <a href="https://id.m.wiktionary.org/wiki/kampungan" title="Cupu" target="_blank" rel="external">keramaian teknologi</a> seperti saya pun tidak jarang menangkap istilah ini.</p>
+<p>Hingga akhirnya karena kebetulan kemampuan saya cukup lumayan jika hanya sekedar untuk menulis — juga sebab <a href="http://www.berbagaireviews.com/2014/08/rasa-ingin-tahu-kuriositas.html" target="_blank" rel="external">kuriositas</a> tentang apa dan bagaimana rasanya <a href="https://id.m.wikipedia.org/wiki/Blog#Budaya_populer" target="_blank" rel="external"><em>ngeblog</em></a> — pada sebuah kesempatan diam-diam saya mulai menjajal blog.</p>
+<h3 id="Mencicip-Beragam-Penyedia-Blog"><a href="#Mencicip-Beragam-Penyedia-Blog" class="headerlink" title="Mencicip Beragam Penyedia Blog"></a>Mencicip Beragam Penyedia Blog</h3><p>Seperti halnya para <a href="https://kitabgaul.com/word/newbie" target="_blank" rel="external"><em>newbie</em></a> lain yang berserakan di jagat internet, blog perdana yang saya buat tentunya memakai <a href="https://id.m.wikipedia.org/wiki/Blogger_(layanan)" target="_blank" rel="external">Blogger</a> besutan <a href="https://id.m.wikipedia.org/wiki/Google" target="_blank" rel="external">Google</a>. Dari sinilah bermulanya aktivitas  <em>Blogging</em>  yang coba saya lakukan, istilah semacam <a href="https://id.m.wikipedia.org/wiki/Colok-masuk" target="_blank" rel="external">pengaya</a>, <a href="https://id.m.wikipedia.org/wiki/HTML" target="_blank" rel="external">html</a>, <a href="https://id.m.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="external">css</a>, <a href="https://id.m.wikipedia.org/wiki/Extensible_hypertext_markup_language" target="_blank" rel="external">xhtml</a>, juga beragam tetek-bengek mengenai blog mulai mengiang di kepala.</p>
+<p>Namun karena kuriositas yang masih belum terpuaskan, aktifitas <em>blogging</em> saya segera merambah ke <a href="https://johdablog.wordpress.com/2015/01/21/10-situs-penyedia-blog-gratis-terbaik/" target="_blank" rel="external">penyedia blog</a> yang sedapat mungkin mampu saya temukan di jagat internet.</p>
+<p>Mulai dari <a href="https://id.m.wikipedia.org/wiki/WordPress" target="_blank" rel="external">Wordpress.com</a> versi daring yang jadi pesaing ketatnya Blogger, lalu <a href="https://id.m.wikipedia.org/wiki/Tumblr" target="_blank" rel="external">Tumblr</a> blog yang bercita rasa media sosial, hingga <a href="http://www.jungjawa.com/2015/07/medium-udah-saatnya-ngeblog-dan-fokus.html" target="_blank" rel="external">Medium</a> yang sangat memperhatikan kontennya, beserta lusinan nama penyedia lain— tanpa mengabaikan kemumpunian mereka —, turut terjamah kesepuluh jari tangan saya.</p>
+<p>Eksplorasi ini memaksa saya berpindah-pindah dari satu media ke media lain untuk mencicipi beraneka fitur yang disediakan. Perilaku ini juga perlahan semakin menambah wawasan saya tentang dunia <em>blogging</em>, meski hanya kenalan alakadarnya tentang <a href="https://id.m.wikipedia.org/wiki/Optimisasi_mesin_pencari" target="_blank" rel="external">SEO</a>, <a href="https://id.m.wikipedia.org/wiki/Sistem_manajemen_konten" target="_blank" rel="external">CMS</a>, <a href="https://id.m.wikipedia.org/wiki/MySQL" target="_blank" rel="external">MySQL</a>, <a href="https://id.m.wikipedia.org/wiki/Nama_domain" target="_blank" rel="external">Domain</a>, <a href="https://id.m.wikipedia.org/wiki/Layanan_hos_web" target="_blank" rel="external">Host</a> dst.</p>
+<p>Tapi kabar buruknya, alih-alih bergumul dengan menulis <a href="https://id.m.wikipedia.org/wiki/Konten_media" target="_blank" rel="external">konten</a>, saya malah lebih banyak mondar-mandir memilih penyedia blog yang mampu memenuhi harapan saya. Karena hasilnya selalu berakhir nihil, yang mampu saya lakukan hanyalah mengeluh, mencoba penyedia lain, rehat sejenak, kemudian mengeluh, lalu berganti penyedia lain dan begitu seterusnya.</p>
+<h3 id="Angan-Versus-Kenyataan"><a href="#Angan-Versus-Kenyataan" class="headerlink" title="Angan Versus Kenyataan"></a>Angan Versus Kenyataan</h3><p>Pusaran usaha menemukan penyedia blog yang tepat saat itu terus berlanjut meski saya sangat sadar tindakan ini bakal tiada berujung, mengingat harapan yang saya tambatkan pada blog yang ingin saya buat cukup merepotkan. Berikut selengkapnya:</p>
+<ul>
+<li><strong>Gratisan</strong><br>Bagi seorang pengangguran seperti saya, bagian inilah yang paling membatasi. Setiap fitur yang ditawarkan oleh penyedia blog <em>gratisan</em> selalu saja terbatas, <em>money isn’t everything but everything need money</em>.</li>
+<li><strong>Tampilan</strong><br>Aspek <strong>tampilan</strong> blog adalah bagian yang paling pantas untuk dipersalahkan atas kelabilan saya dalam memilh penyedia blog, tapi untuk kesekian kalinya sebagian besar tema yang tersedia selalu sangat terbatas sekaligus menyertakan <a href="https://id.m.wikipedia.org/wiki/Hak_cipta" target="_blank" rel="external">hak cipta</a> yang sangat membatasi penyesuaian tema tersebut.</li>
+<li><strong>Kostumisasi</strong><br>Tingkat kostumisasi dan pengaya yang tersedia masih sangat terbatas, sekali lagi masalah utamanya adalah biaya.</li>
+<li><strong>Fleksibilitas</strong><br>Tidak semua jenis <a href="https://id.m.wikipedia.org/wiki/Gawai" target="_blank" rel="external">Gawai</a> mampu menggawangi aspek-aspek penting mengenai pengaturan blog. Beberapa penyedia blog hanya dapat benar-benar ditelanjangi jika menggunakan <a href="https://id.m.wikipedia.org/wiki/Komputer_meja" target="_blank" rel="external">perangkat desktop</a> serupa Laptop dkk.</li>
+<li><strong>Bantuan</strong><br>Meski sudah sangat berserakan dimana-mana, dukungan atau bantuan vital mengenai proses pembuatan blog tersebut biasanya selalu berbau biaya.</li>
+</ul>
+<p>Kesemua kendala yang termuat dalam daftar di atas sebenarnya berpusat pada biaya, sangat disayangkan untuk benar-benar mampu membuat sebuah blog yang sesuai dengan harapan terbentur dengan si biaya. Tapi saat itu <del>bodohnya</del> saya selalu yakin suatu saat sebuah keajaiban akan terjadi, mimpi akan terwujudnya blog idaman.</p>
+<h3 id="Salah-Memecah-Masalah"><a href="#Salah-Memecah-Masalah" class="headerlink" title="Salah Memecah Masalah"></a>Salah Memecah Masalah</h3><p>Usaha yang saya lakukan untuk mengatasi masalah atau kendala tersebut sebenarnya dapat dilihat dari sikap kelabilan saya dalam menetapkan media blog.</p>
+<p>Namun perlu disebutkan bahwa sembari mondar-mandir, dalam beberapa kesempatan saya nekat memilih beberapa solusi <a href="http://kbbi.web.id/ilegal" target="_blank" rel="external">ilegal</a> maupun konyol buat mengatasi permasalahan ini. Singkatnya dapat dikelompokkan dalam tiga solusi utama, yaitu:</p>
+<ul>
+<li><strong>Terima Jadi</strong><br>Beberapa situs penyedia template atau tema blog cukup mampu menarik perhatian saya, seperti <a href="http://urang-kurai.blogspot.com" target="_blank" rel="external"><strong>Urang Kurai</strong></a>, <a href="http://blog.kangismet.net" target="_blank" rel="external">Kang Ismet</a>, atau entah apa namanya — <em>dasar pelupa</em> —, menyediakan <a href="https://creativemarket.com/templates" target="_blank" rel="external">template</a> yang cukup menawan. Namun cukup langka untuk menemukan penyedia template atau tema blog yang benar-benar orisinil dan dibagikan gratis sepenuh hati tanpa menyertakan aturan hak cipta, <a href="http://ads-blocker.com/testing/" target="_blank" rel="external">iklan</a> dkk.</li>
+<li><strong>Buat Sendiri</strong><br>Pernah saya memutuskan untuk mempelajari html, css, <a href="https://id.m.wikipedia.org/wiki/JavaScript" target="_blank" rel="external">JavaScript</a>, dkk dengan harapan agar mampu membuat tema blog sendiri yang mampu memenuhi harapan saya. Sesuai dengan dugaan, selain hanya mampu menyerap konsep dasarnya saja, belajar otodidak tentang ketiga bahasan tersebut justru menambah ruwet kepala saya.</li>
+<li><strong>Ilegal</strong><br>Bagian inilah yang seharusnya wajib dihindari, meskipun dengan segala rasa bersalah saya akui justru jadi solusi terfavorit. Tidak lupa, penelusuran “<a href="https://www.google.co.id/search?q=Premium+Blog+Themes" target="_blank" rel="external">Premium Blog Themes</a>“ beberapa kali turut saya isikan pada kotak pencarian yang disediakan oleh situs semacam <a href="www.themelock.com">Themelock</a>, <a href="http://torrentproject.se" target="_blank" rel="external">TorrentProject</a>, dan <a href="https://katcr.co" target="_blank" rel="external">Kat.cr</a>. Tapi bahkan meskipun telah memperoleh tema yang saya inginkan, masih saja muncul kejanggalan saat menggunakannya.</li>
+</ul>
+<p>Sialnya kesemua pemecah masalah (siasat) yang mampu terbersit di kepala saya saat itu sama sekali tidak memberikan hasil yang memuaskan. Ujung-ujungnya saya kembali mengorek-ngorek media blog lain yang mungkin belum tersentuh oleh jemari saya.</p>
+<h2 id="Bertemu-Static-Site"><a href="#Bertemu-Static-Site" class="headerlink" title="Bertemu Static Site"></a>Bertemu Static Site</h2><p>Sirkulasi proses ruwet menemukan penyedia blog yang pas dan sesuai dengan selera kala itu terus berlanjut hingga terkadang beberapa kali saya justru tergelincir pada topik yang sangat berlainan.</p>
+<p>Beberapa kali saya terpukau dengan dunia <a href="https://id.m.wikipedia.org/wiki/Desain" target="_blank" rel="external">desain</a> yang sangat mendetail, juga <a href="https://id.m.wikipedia.org/wiki/Sastra" target="_blank" rel="external">sastra</a> yang dipenuhi kata, lalu sederet bahasa <a href="https://id.m.wikipedia.org/wiki/Pemrograman" target="_blank" rel="external"><em>programming</em></a> yang sebagian besar memusingkan. Bahkan mereka seringkali berhasil mengalihkan perhatian saya dari dunia blogging dalam tempo yang cukup lama.</p>
+<p>Hingga singkatnya, saya menemukan sebuah artikel garapan bang <a href="http://ariona.github.io" target="_blank" rel="external">Ariona</a> mengenai <a href="http://www.ariona.net/github-pages-solusi-gratis-untuk-situs-statis/" target="_blank" rel="external"><strong>Github Pages</strong></a> yang dapat dimanfaatkan untuk membuat website berbentuk <a href="https://en.m.wikipedia.org/wiki/Static_web_page" target="_blank" rel="external"><em>static site</em></a>, lalu segera setelah sepenuhnya terbaca saya pikir tidak ada salahnya untuk mencoba Github Pages ini sebagai media blog.</p>
+<h3 id="Menyelami-Github"><a href="#Menyelami-Github" class="headerlink" title="Menyelami Github"></a>Menyelami Github</h3><p>Maka seusai membaca artikel mengenai “Github Pages” dan “Static Site” yang saat itu masih sangat baru, terpaksa mengharuskan saya untuk sedikit demi sedikit menguak keberadaan Github Pages. <a href="https://github.com" target="_blank" rel="external">Github</a>, karena <a href="https://en.m.wikipedia.org/wiki/Nota_bene" target="_blank" rel="external">notabene</a> adalah tempat berkumpulnya para <a href="https://id.m.wikipedia.org/wiki/Pengembang_perangkat_lunak" target="_blank" rel="external"><em>programmer</em></a> untuk berbagi dan mengatur proyek yang dikerjakan secara <a href="https://kominfo.go.id/index.php/content/detail/3434/Open+Source+di+Kominfo/0/program_prioritas" target="_blank" rel="external">terbuka</a>, ternyata menyimpan banyak hal-hal menarik perhatian.</p>
+<p>Meskipun sebagian besar kontennya seringkali menuntut pemahaman mumpuni akan dunia <em>Programming</em>, tapi beberapa diantaranya dapat disantap, dipahami dan dimanfaatkan oleh pengunjung yang hanya bermodalkan rasa <em>sok tau</em> layaknya saya.</p>
+<p>Setiap proyek yang terdapat dalam Github sendiri biasanya menyertakan <a href="https://en.m.wikipedia.org/wiki/README" target="_blank" rel="external">informasi</a> lengkap mengenai proyek tersebut. Hal inilah yang semakin memperlancar eksplorasi Github, entah itu hanya sekedar menilik <a href="https://github.com/explore" target="_blank" rel="external">proyek-proyek menarik</a> — meski tak sepenuhnya paham —, atau mencari beragam <a href="https://github.com/showcases" target="_blank" rel="external">aplikasi</a>, <a href="https://github.com/showcases/fonts" target="_blank" rel="external">font</a>, dan bahkan <a href="https://github.com/showcases/writing" target="_blank" rel="external">buku-buku</a> berkualitas apik yang kesemuanya dibagikan secara cuma-cuma.</p>
+<p>Topik <em>static site</em> atau situs statis sendiri berhasil menggiring saya untuk menyingkap tabir beragam kompetensi dasar (tambahan) yang dibutuhkan untuk benar-benar dapat mengoperasikan sebuah situs statis. Mulai dari <a href="https://davidwalsh.name/introduction-static-site-generators" target="_blank" rel="external">Static Site Generator</a> (Pemroses Situs Statis), <a href="https://id.m.wikipedia.org/wiki/Git" target="_blank" rel="external">Git</a>, <a href="https://en.m.wikipedia.org/wiki/Markdown" target="_blank" rel="external">Markdown</a>, <a href="https://id.m.wikipedia.org/wiki/Bourne-Again_shell" target="_blank" rel="external">Bash</a>, <a href="https://id.m.wikipedia.org/wiki/YAML" target="_blank" rel="external">Yaml</a>, <a href="https://id.m.wikipedia.org/wiki/SSH" target="_blank" rel="external">Ssh</a>, dan beberapa tambahan informasi lain yang kesemuanya saya pelajari sembari berjalan alias <em>learning by doing</em>.</p>
+<h3 id="Menyapa-Static-Site"><a href="#Menyapa-Static-Site" class="headerlink" title="Menyapa Static Site"></a>Menyapa Static Site</h3><p>Bagian yang paling mengesankan dari situs statis adalah konten hingga bahkan kerangka blog dapat disesuaikan dengan selera maupun kebutuhan. Meski dengan catatan, penyesuaian tersebut juga menuntut pemahaman mengenai apa yang kita lakukan.</p>
+<p>Lebih dari itu, situs statis juga cukup memenuhi kriteria yang telah saya tambatkan sebelumnya. Selama pemahaman mengenai apa dan bagaimana cara kerja sebuah situs statis dapat dipenuhi, semua kriteria blog idaman saya kemungkinan besar mampu terpenuhi — tentunya tanpa harus mengeluarkan biaya besar.</p>
+<p>Karena pemroses situs statis yang tersedia di Github kesemuanya gratis, sebagian besar juga telah menyertakan <strong>bertumpuk</strong> pilihan <strong>tema</strong>, lalu dapat <strong>diatur sesuai</strong> dengan  <strong>selera</strong>, juga dapat  <strong>diakses</strong>  melalui beraneka ragam <strong>gawai</strong>, hingga bahkan memiliki  <strong>komunitas</strong>  yang lumayan besar sebagai sarana  <strong>berbagi</strong>  panduan, jawaban dan segala jenis  <strong>bantuan</strong>  untuk mengoperasikan situs statis.</p>
+<p>Alasan-alasan yang disebutkan dalam paragraf diatas jadi landasan kuat untuk menetapkan situs statis sebagai media blogging pilihan terakhir.</p>
+<h3 id="Kembali-Mondar-mandir"><a href="#Kembali-Mondar-mandir" class="headerlink" title="Kembali Mondar-mandir"></a>Kembali Mondar-mandir</h3><p>Pemroses Situs Statis (Static Site Generator) yang tersedia di Github jumlahnya juga hampir sebanyak media blogging (WordPress dkk) yang beredar di internet, meski dapat digolongkan sebagai berita baik tapi di sisi lain untuk kesekian kalinya saya kembali disibukkan dengan mondar-mandir mencicipi mereka.</p>
+<p>Pemroses situs statis kenamaan seperti <a href="https://jekyllrb.com" target="_blank" rel="external"><strong>Jekyll</strong></a> jadi korban pertama, pemasangan Jekyll beserta pengaya-nya dapat terselesaikan. Bahkan selain menggunakan perangkat desktop, Jekyll dapat diakses melalui perangkat Android berkat tersedianya aplikasi besutan <a href="http://faudroids.org" target="_blank" rel="external"><strong>faudroids</strong></a> bernama <a href="http://faudroids.org/MrHyde/" target="_blank" rel="external"><strong>MrHyde</strong></a>.</p>
+<p>Kemudian melirik <a href="https://gohugo.io" target="_blank" rel="external"><strong>Hugo</strong></a> yang mengaku lebih cepat dalam memproses situs statis dibanding pemroses lain. Pilihan tampilan tema yang lebih menarik jadi nilai tambah bagi si Hugo, namun hingga kini pemasangan Hugo di perangkat Android hanya dapat dilakukan melalui aplikasi <a href="https://termux.com" target="_blank" rel="external"><strong>Termux</strong></a>.</p>
+<p>Bermacam pemroses situs statis lain seperti  <a href="https://getnikola.com" target="_blank" rel="external"><strong>Nikola</strong></a>, <a href="http://octopress.org" target="_blank" rel="external"><strong>Octopress</strong></a>,  <a href="http://docs.getpelican.com/en/stable/" target="_blank" rel="external"><strong>Pelican</strong></a>,  <a href="https://middlemanapp.com" target="_blank" rel="external"><strong>Middleman</strong></a>, <a href="http://harpjs.com" target="_blank" rel="external"><strong>Harp</strong></a>, dkk sebagian besar hanya saya lirik sekilas lalu, bukan karena mereka tidak menarik atau merendahkan kualitasnya, tapi justru lebih karena tingkat kompetensi yang saya kuasai belum mampu memahami prosedur pemasangan sehingga seringkali menemu kegagalan hingga akhirnya kapok dan sadar atas keterbatasan yang saya miliki 😅.</p>
+<h3 id="Kepincut-Hexo"><a href="#Kepincut-Hexo" class="headerlink" title="Kepincut Hexo"></a>Kepincut Hexo</h3><p>Tingkah mondar-mandir yang saya lakukan akhirnya terhenti saat saya mencoba pemroses situs statis bernama <a href="https://hexo.io" target="_blank" rel="external"><strong>Hexo</strong></a>, meski sempat merasa tidak begitu yakin, namun niatan untuk mencoba pemroses ini begitu besar sebab salah satu tema yang disediakan terlihat sangat menarik.</p>
+<p>Kabar gembiranya, pemasangan Hexo ternyata cukup sederhana dan segera terwujud pada percobaan pertama, namun sialnya kendala yang muncul adalah saat beralih dari tema default ke tema idaman yang notabene jadi alasan kuat mengapa saya memilih Hexo.</p>
+<p>Kendati gagal pada percobaan pertama — masih karena alasan <strong>tema</strong> —, beberapa hari kemudian saya kembali memberanikan diri untuk mencicipi Hexo dengan kejelian yang lebih besar. Kali ini saya menyadari kesalahan kecil yang <del>tololnya</del> luput dari perhatian, kegagalan tempo hari ternyata disebabkan karena pengaturan bahasa pada tema yang seharusnya wajib disematkan.</p>
+<p>Maka saat setelan bahasa tersemat dengan baik, senang sekali rasanya situs statis idaman akhirnya mampu berjalan sebagaimana mestinya. Sehingga dengan ini tamatlah sudah proses pencarian media blog sarat pengetahuan yang saya jalani 👏.</p>
+<h2 id="Berjibaku-Dengan-Hexo"><a href="#Berjibaku-Dengan-Hexo" class="headerlink" title="Berjibaku Dengan Hexo"></a>Berjibaku Dengan Hexo</h2><blockquote>
+<p>Secepat kilat, Mendukung Markdown, Keselarasan Proses Penerbitan, dan Beraneka Pengaya.</p>
+</blockquote>
+<p>Kutipan di atas merupakan terjemahan kasar dari apa yang terpampang di situs resmi Hexo.</p>
+<p>Meski terdengar menggebu-gebu dan seharusnya dapat memikat banyak pengguna situs statis, tapi bagi seseorang yang serba <em>sok tau</em> seperti saya, memerlukan usaha ekstra untuk benar-benar merasakan dan memanfaatkan kekuatan yang tersembunyi dibalik Hexo.</p>
+<p>Mulai dari menggunakan <a href="https://www.npmjs.com" target="_blank" rel="external">npm</a> yang merupakan syarat utama pemasangan Hexo, memahami struktur tema <a href="http://ejs.co" target="_blank" rel="external">ejs</a> atau <a href="http://www.swig.org" target="_blank" rel="external">swig</a> yang dianutnya, dan beragam wawasan lain yang harus dihadapi saat mencoba menambahkan pengaya.</p>
+<p>Tapi karena yang saya comot hanya bagian-bagian yang sekiranya berkaitan dengan kebutuhan, menurut hemat saya kesemuanya dapat dipelajari, dipahami, dan langsung dipraktekkan secara sporadis. Ringkasnya, Hexo tetap dapat melenggang manis di perangkat Android saya meskipun tidak seluruh detail pembuatannya saya pahami.</p>
+<h3 id="Bertahan-Meski-Kurang"><a href="#Bertahan-Meski-Kurang" class="headerlink" title="Bertahan Meski Kurang"></a>Bertahan Meski Kurang</h3><p>Tidak sedikit dari pengguna situs statis yang memanfaatkan Hexo adalah para penutur <a href="https://id.m.wikipedia.org/wiki/Rumpun_bahasa_Tionghoa" target="_blank" rel="external">bahasa Tionghoa</a>, panduan tambahan yang tersedia juga seringkali dijabarakan panjang lebar dalam <a href="https://id.m.wikipedia.org/wiki/Bahasa_Tionghoa_tertulis" target="_blank" rel="external">aksara Tionghoa</a>. Begitu pula dengan sang pembuat tema idaman yang berhasil menarik saya hingga memutuskan untuk memilih Hexo, kemungkinan besar beliau pun juga berasal dari negeri tirai bambu.</p>
+<p>Beberapa tantangan lain juga tak kalah merepotkan, senjata <em>sok tau</em> untuk kesekian kalinya jadi andalan buat menghabisi mereka:</p>
+<ul>
+<li><strong>Pembaruan</strong><br>Entah mengapa sejak pertama kali saya mengenalnya, Si Hexo belum juga diperbaharui. Meski fitur yang tersedia sudah sangat mencukupi, sedikit rasa khawatir akan mandeknya pengembangan Hexo kadang menghantui kepala.</li>
+<li><strong>Tionghoa</strong><br>Meski dapat diatasi dengan memanfaatkan fitur penerjemah yang telah tersemat di banyak perambahan modern, mendapati aksara Tionghoa pada setiap penjabaran secara mendetail mengenai fitur Hexo selalu terasa bagai bergelut dengan Om <a href="https://id.m.wikipedia.org/wiki/Jackie_Chan" target="_blank" rel="external"><strong>Jackie Chan</strong></a>.</li>
+<li><strong>Hanya Termux</strong><br>Walau bukan masalah yang begitu pelik, saya pikir akan sangat menyenangkan jika Hexo berkenan untuk menyediakan aplikasi resmi untuk mengaksesnya dari Android.</li>
+</ul>
+<p>Mungkin beberapa kekurangan lain segera dapat dicantumkan, tapi berapapun jumlahnya, saya rasa kekurangan yang dimiliki Hexo belum mampu menghalangi saya untuk tetap menggunakannya.</p>
+<h3 id="Dibutakan-Oleh-Tema"><a href="#Dibutakan-Oleh-Tema" class="headerlink" title="Dibutakan Oleh Tema"></a>Dibutakan Oleh Tema</h3><p>Benar sekali, keteguhan saya untuk tetap memilih Hexo dapat dikatakan hanya karena sebuah <strong>tema</strong>.</p>
+<p>Adapun nama tema yang berulangkali telah disebut-sebut disini adalah <a href="https://material.viosey.com/en/" target="_blank" rel="external"><strong>Hexo Material</strong></a>, mahakarya seorang mahasiswa bernama <a href="https://viosey.com" target="_blank" rel="external">Viosey</a> ini mampu mengadopsikan desain bergaya <a href="https://material.io" target="_blank" rel="external">Material</a> ala Google dengan sangat baik.</p>
+<p>Beberapa aspek yang membuat <strong>Hexo Material</strong> sangat layak untuk bertengger di peringkat teratas <a href="https://hexo.io/themes/" target="_blank" rel="external">tema</a> terbaik Hexo adalah:</p>
+<ul>
+<li><strong>Desain Responsif</strong><br><a href="https://id.m.wikipedia.org/wiki/Desain_web_responsif" target="_blank" rel="external">Desain Responsif</a> (Responsive Design) dalam Hexo Material memberikan fleksibilitas tampilan blog sesuai dengan ukuran layar perangkat milik pengunjung blog.</li>
+<li><strong>Antarmuka Material</strong><br>Bagi saya bagin inilah yang paling utama, tampilan tema Hexo Material seluruhnya menganut desain beraliran Material ala Google. Hebatnya lagi, beberapa penyesuaian masih dapat dilakukan jika memang dirasa perlu.</li>
+<li><strong>Multi Bahasa</strong><br>Viosey menyisipkan <a href="https://material.viosey.com/en/" target="_blank" rel="external">sembilan bahasa</a> default dalam Hexo Material yang dapat langsung digunakan, meski Bahasa Indonesia belum tersedia, namun dapat ditambahkan secara manual dengan cepat dan singkat.</li>
+<li><p><strong>Halaman Independen</strong><br>Atau lebih tepatnya fitur yang memungkinkan kita untuk menambahkan halaman khusus pada blog dengan tampilan unik yang patut dicicipi, yaitu halaman tautan dan galeri.</p>
+</li>
+<li><p><strong>Bantuan</strong><br>Keluh kesah dalam menghadapi beragam kendala saat memakai Hexo Material dapat disalurkan melalui <a href="https://gitter.im/material-theme/hexo" target="_blank" rel="external">Github</a> atau <a href="https://github.com/viosey/hexo-theme-material/issues" target="_blank" rel="external">Gitter</a>. Setiap anggotanya selalu siap sedia menanggapinya, meski harus ditekankan bahwa sebelum mengajukan bantuan atau pertanyaan baiknya terlebih dahulu <a href="https://github.com/viosey/hexo-theme-material" target="_blank" rel="external">mengeksplorasi</a> Hexo Material.</p>
+</li>
+</ul>
+<p>Sederet daftar di atas saya pikir sudah cukup layak untuk menjawab pertanyaan tentang mengapa saya memilih Hexo Material.</p>
+<h3 id="Menggarap-Konten"><a href="#Menggarap-Konten" class="headerlink" title="Menggarap Konten"></a>Menggarap Konten</h3><p>Selain kostumisasi atau pengaturan tampilan dan penambahan beraneka fitur blog, bagian yang sesungguhnya sangat penting bagi sebuah blog adalah Konten.</p>
+<p>Dalam Hexo, hampir semua kontennya ditulis menggunakan Markdown, maka pemahaman mengenai Markdown sebaiknya benar-benar dimatangkan. Percayalah, kerepotan dari proses pemahaman Markdown tidak membuahkan manfaat hanya saat berurusan dengan konten blog saja, tapi nantinya akan sangat meningkatkan produktivitas tulis-menulis seorang pengrajin kata.</p>
+<p>Karena persoalan paling besar yang hinggap setelah static site berhasil disiapkan adalah mencari topik yang <strong>pas</strong> untuk dijadikan sebagai konten. Meski sadar seharusnya paragraf ini lebih baik disimpan buat konsumsi saya pribadi, namun terpaksa saya cantumkan sebagai alasan ditulisnya selembar catatan ini.</p>
+<p>Sebab sialnya membuat konten blog yang benar-benar dapat dianggap sebagai <strong>konten</strong> ternyata mirip dengan menulis seikat makalah, sedangkan tanpa setidaknya sebiji konten yang mengangkat topik sederhana ini akan meruntuhkan segala kenyamanan yang tersedia di blog ini.</p>
+<p>Jadi hanya untuk sekedar memenuhi syarat, artikel ini saya jadikan pelengkap buat melenggangkan blog ini di jagat internet.</p>
+<h2 id="Kesan-Dan-Pesan"><a href="#Kesan-Dan-Pesan" class="headerlink" title="Kesan Dan Pesan"></a>Kesan Dan Pesan</h2><p>Kedepannya, selain harapan pribadi untuk mampu secara kontinyu menulis di sini, saya juga sangat mengidam-idamkan semakin mewabahnya ketenaran <em>static site</em> terutama bagi para pengrajin kata.</p>
+<p>Karena sayangnya situs statis yang bertebaran di jagat internet masih selalu berbau dunia <em>programming</em>, padahal fitur yang tersedia pada situs statis saya pikir akan sangat membantu meningkatkan produktivitas tulis-menulis yang berbau sastra.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Dokumen </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Github </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[Galeri]]></title>
+      <url>/Galeri/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Profil]]></title>
+      <url>/Profil/index.html</url>
+      <content type="html"><![CDATA[<h3 id="Sebersit-Gambaran"><a href="#Sebersit-Gambaran" class="headerlink" title="Sebersit Gambaran"></a>Sebersit Gambaran</h3><p>Serupa banyak pemuda lain yang menyesaki bumi, bergumul dengan banyak pilihan menarik sehingga butuh usaha keras untuk terus tetap bertahan di setapak trotoar yang sama.</p>
+<h3 id="Motto"><a href="#Motto" class="headerlink" title="Motto"></a>Motto</h3><blockquote>
+<p>You Can if You Think You Can</p>
+</blockquote>
+<h3 id="Kutipan"><a href="#Kutipan" class="headerlink" title="Kutipan"></a>Kutipan</h3><blockquote>
+<p>You see what you want to see
+<span style="text-align:right;font-style: italic;">—Albus Dumbledore</span></p>
+</blockquote>
+<h3 id="Kegemaran"><a href="#Kegemaran" class="headerlink" title="Kegemaran"></a>Kegemaran</h3><ul>
+<li>Buku</li>
+<li>Pena</li>
+<li>Kuas</li>
+<li>Lensa</li>
+<li>Internet</li>
+<li>Kopi</li>
+<li>Bantal</li>
+</ul>
+<p><strong>Kontak</strong>
+Email:
+<a href="mailto:ac.mughni@gmail.com" target="_blank" rel="external">ac.mughni@gmail.com</a>
+WhatsApp:
+<a href="whatsapp://send?text=Hai!&amp;phone=+6285878522069" target="_blank" rel="external">085878522069</a>
+Instagram:
+<a href="https://instagram.com/acemughnie/" target="_blank" rel="external">@acemughnie</a>
+Telegram:
+<a href="https://t.me/acemughnie" target="_blank" rel="external">@acemughnie</a></p>
+<p><strong>Halaman</strong>
+DeviantArt: <a href="http://mughnie.deviantart.com" target="_blank" rel="external">mughnie</a></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tagar]]></title>
+      <url>/Tagar/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tautan]]></title>
+      <url>/Tautan/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tentang Mughni Mind]]></title>
+      <url>/Tentang/index.html</url>
+      <content type="html"><![CDATA[<h3 id="Selayang-Pandang"><a href="#Selayang-Pandang" class="headerlink" title="Selayang Pandang"></a>Selayang Pandang</h3><p><img src="index/logo.png" style="float: left;width:120px;height:120px;margin: 0 0.5em 0em;" title="Mughni Mind Logo"> <a href="https://mughnimind.github.io"><strong>Mughni Mind</strong></a> adalah wadah buat menumpahkan gayung demi gayung pikiran yang telah menggenang lama di kepala saya. Gampangnya “Mughni Mind” mencuat semata karena nafsu pribadi untuk menumpahkan segala pikiran yang menyesak kepala. Sebab itu, konten yang termuat dalam “Mughni Mind” tidak direncanakan untuk mengangkat sebuah topik tertentu, karena konsep macam itu telah berulang kali berhasil membatasi hingga bahkan memapat aliran tumpahnya kubangan pikiran saya.</p>
+<h3 id="Struktur-Halaman"><a href="#Struktur-Halaman" class="headerlink" title="Struktur Halaman"></a>Struktur Halaman</h3><p><img src="index/avatar.png" style="float:right;width:120px;height:120px;margin: 0em 0em 0em 0.5em;" title="Mughni Mind Avatar">Lebih jauh lagi, pembebasan topik/pembahasan konten dalam “Mughni Mind” juga Saya maksudkan untuk semakin menekankan bahwa “Mughni Mind” merupakan muara dari beragam pikiran yang terjebak di kepala Saya. Meski demikian<em>—jika memang nantinya bakal bermunculan banyak topik disini</em>, demi kepentingan kerapihan dan kesederhanaan situs “Mughni Mind”, beragam topik tersebut dirangkum dalam enam kategori, yaitu:
+
+<a href="../Kategori/Dokumen/"><strong>Dokumen</strong></a> mencakup hampir semua <em>postingan</em> yang berkaitan dengan bahasa, kata beserta komplotannya;<br><a href="../Kategori/Gambar/"><strong>Gambar</strong></a> memuat banyak konten yang <em>berekstensi</em> .jpg, .png, .tiff, .psd, .cdr, atau apapun itu yang berbentuk gambar;<br><a href="../Kategori/Musik/"><strong>Musik</strong></a> mencoba berurusan dengan yang dikonsumsi telinga;<br><a href="../Kategori/Video/"><strong>Video</strong></a> tempatnya ulasan berkenaan dengan film, serial tv, atau semacam gambar bergerak lain, dan;<br><a href="../Kategori/Gawai/"><strong>Gawai</strong></a> mengusik masalah perangkat, piranti, atau apalah itu namanya.</p>
+
+<p>Fitur pencarian dan halaman <a href="/Tagar"><strong>Tagar</strong></a> juga tersedia buat semakin mempermudah pengunjung blog dalam menjelajahi blog ini.</p>
+<h3 id="Proses-Penerbitan-“Mughni-Mind”"><a href="#Proses-Penerbitan-“Mughni-Mind”" class="headerlink" title="Proses Penerbitan “Mughni Mind”"></a>Proses Penerbitan “Mughni Mind”</h3><blockquote>
+<p>Dari sekian paragraf di halaman ini, di bagian inilah yang paling ingin Saya pamerkan, keseluruhan proses pembuatan “Mughni Mind” yang 99,95% digarap hanya dengan menggunakan <em><strong>Smartphone</strong></em>.</p>
+</blockquote>
+<p>Berkat seonggok <a href="https://id.m.wikipedia.org/wiki/Ponsel_cerdas" target="_blank" rel="external"><em>Smartphone</em></a> bersistem operasi <a href="https://id.m.wikipedia.org/wiki/Android_(sistem_operasi)" target="_blank" rel="external">Android</a> yang menjerumuskan Saya ke berbagai ranah yang berserakan di <a href="https://id.m.wikipedia.org/wiki/Internet" target="_blank" rel="external">Internet</a>, dan akibat berbagai informasi yang Saya comot dari sana-sini, hingga akhirnya menitah jemari Saya untuk mem<em>-publish</em> blog dengan segala embel-embelnya tanpa sedikitpun berurusan dengan layar komputer dkk. Mulai dari registrasi, kostumisasi, posting, dan penambahan <a href="https://en.m.wiktionary.org/wiki/add-on" target="_blank" rel="external">pengaya</a> “Mughni Mind” seluruhnya dieksekusi di <em>Smartphone</em>.</p>
+<p>Keseluruhan detail proses pembuatan blog “Mughni Mind” untuk saat ini Saya pikir tidak mungkin untuk dijabarkan di halaman ini, semoga dalam waktu dekat dapat Saya rampungkan dan segera terlampir di sini.</p>
+<blockquote>
+<p>Singkatnya, <strong>membuat blog</strong> berikut beragam embel-embelnya dapat diselesaikan hanya melalui <em>handheld</em>.</p>
+</blockquote>
+<p>Berikut ini hanya Saya tuliskan pondasinya saja, yaitu bagian-bagian utama yang dibutuhkan untuk membuat situs tanpa harus menyentuh laptop dkk. Sekaligus juga sebagai kredit terhadap jasa berbagai pihak yang sangat berperan atas ter<em>publish</em>-nya “Mughni Mind”.</p>
+<p><span style="font-size:1.5em">Perangkat Keras:</span></p>
+<p><a href="https://id.m.wikipedia.org/wiki/Ponsel_cerdas" target="_blank" rel="external"><strong>Smartphone</strong></a>, menggunakan <a href="http://id.wikipedia.org/wiki/Sistem_operasi" target="_blank" rel="external">sistem operasi</a> Android.</p>
+<p><a href="https://id.m.wikipedia.org/wiki/Kopi" target="_blank" rel="external"><strong>Secangkir Kopi</strong></a>, alat bantu pembunuh jemu.</p>
+<hr>
+<p><span style="font-size:1.5em">Perangkat Lunak:</span></p>
+<p><a href="https://termux.com" target="_blank" rel="external"><strong>Termux</strong></a>, Terminal emulator Android.</p>
+<p><a href="https://forum.xda-developers.com/showthread.php?t=1523691" target="_blank" rel="external"><strong>MiXplorer</strong></a>, penjelajah berkas.</p>
+<p><a href="https://forum.xda-developers.com/android/apps-games/app-quickedit-text-editor-t2899385" target="_blank" rel="external"><strong>QuickEdit</strong></a>, penyunting teks.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.android.chrome" target="_blank" rel="external"><strong>Chrome Browser</strong></a>, peramban Android.</p>
+<hr>
+<p><span style="font-size:1.5em">Perkakas:</span></p>
+<p><a href="https://github.com" target="_blank" rel="external"><strong>Github</strong></a>, penyedia halaman.</p>
+<p><a href="https://hexo.io" target="_blank" rel="external"><strong>Hexo</strong></a>, sebagai generator halaman statis.</p>
+<p><a href="https://material.viosey.com/en/" target="_blank" rel="external"><strong>Tema Material</strong></a>, karya <a href="https://viosey.com" target="_blank" rel="external">Viosey</a>.</p>
+<hr>
+<p><span style="font-size:1.5em">Kompetensi:</span></p>
+<p>Semua orang yang tertarik dengan:</p>
+<p><a href="https://id.m.wikipedia.org/wiki/Teks_biasa" target="_blank" rel="external"><strong>Plain texts</strong></a>, alias teks biasa.</p>
+<p><a href="https://en.m.wikipedia.org/wiki/Markdown" target="_blank" rel="external"><strong>Markdown</strong></a>, pemroses teks polos ke bentuk <em>html</em>.</p>
+<p><a href="https://id.m.wikipedia.org/wiki/Bourne-Again_shell" target="_blank" rel="external"><strong>bash</strong></a>, sedikit pengetahuan mengenai <em>Bourne again shell</em>.</p>
+<p><a href="https://id.m.wikipedia.org/wiki/HTML" target="_blank" rel="external"><strong>Html</strong></a>, bahasa yang digunakan peramban untuk menampilkan struktur halaman sebuah situs.</p>
+<p><a href="https://id.m.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="external"><strong>Css</strong></a>, pelengkap si-<em>html</em> agar terlihat menarik.</p>
+<hr>
+<h3 id="Kehausan-Kritik-amp-Saran"><a href="#Kehausan-Kritik-amp-Saran" class="headerlink" title="Kehausan Kritik &amp; Saran"></a>Kehausan Kritik &amp; Saran</h3><p>Berkat pengalaman penulisan Saya yang <em>céték</em>, senang sekali rasanya jika pengunjung blog macam ini merelakan sedikit waktunya untuk berkomentar mengenai “Mughni Mind”. Singkatnya, Saya butuh kritik sekaligus saran serupa banyak makalah yang bertebaran di kelas-kelas terik siang hari paling membosankan. Caranya dapat dilakukan melalui kolom komentar di kaki halaman atau langsung melalui surat elektronik (<a href="mailto:ac.mughni@gmail.com" target="_blank" rel="external">email</a>) yang tertera di bar navigasi, atau lebih lengkapnya silahkan kunjungi halaman <a href="/Profil">Profil</a>.</p>
+<p>Selanjutnya, karena konten “Mughni Mind” sebagian besar belum tersaring dengan baik dan benar, tiap kali menkonsumsi konten “Mughni Mind” ada baiknya untuk kembali menyaring, memasak, dan mengolah pelbagai informasi yang <em>—mungkin saja</em> disematkan. Jadi singkatnya, “Mughni Mind” lebih disarankan untuk dikonsumsi oleh manusia dengan batas pemikiran yang elastis.</p>
+<h3 id="Penutup"><a href="#Penutup" class="headerlink" title="Penutup"></a>Penutup</h3><p>Demikianlah <a href="/Tentang">Halaman Tentang</a> yang terlalu panjang dan bertele-tele ini, <em>—semoga seseorang berkenan untuk membaca halaman ini hingga akhir paragraf</em>.</p>
+<p><div style="font-style:italic;text-align:right;">Terimakasih.</div></p>
+<p style="text-align:right;margin-top:1.5em;">acemughnie</p>
+
+]]></content>
+    </entry>
+    
+  
+</search>
