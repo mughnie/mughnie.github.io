@@ -2,12 +2,12 @@
 title: 'Blog, Github, Hexo'
 date: 2017-06-08 21:33:27
 categories: Dokumen
+excerpt: "Sebidang tulisan perihal jejak perjalanan saya hingga akhirnya terpukau dengan Hexo."
 tags:
-- Github
-- Hexo
+- github
+- hexo
+- blogging
 ---
-
->Sebidang tulisan mengenai rekam jejak perjalanan saya hingga akhirnya terpukau dengan Hexo.
 
 ## Ikut-ikutan Ngeblog
 
